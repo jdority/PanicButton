@@ -9,7 +9,7 @@
     
     <aura:attribute name="message" 
                     type="String" 
-                    default="BAMMMMM"
+                    default="ADRIAN!!!!!!!!!"
                     description="Message to display while audio is playing"/>
     
     <aura:attribute name="soundUrl" 
